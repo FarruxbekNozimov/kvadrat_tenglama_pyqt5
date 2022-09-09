@@ -1,0 +1,1 @@
+# kvadrat_tenglama_pyqt5
